@@ -1,1 +1,1 @@
-This project is intended to eventually be the JIT (Just In Time) compiler for the kernel in an operating system designed so only one version of each piece of software needs to be built, without the usual sacrifice of performance common of virtual environments
+This project is intended to eventually be the JIT (Just In Time) compiler for the kernel in an operating system designed so only one version of each piece of software needs to be built, without the usual sacrifice of performance common of virtual environments.
