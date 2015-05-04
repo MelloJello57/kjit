@@ -1,0 +1,15 @@
+## CMAKE
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+install_manifest.cmake
+Makefile
+
+## BUILD OUTPUT
+kernel
+build
+*.o
+*.so
+
+## TEXT EDITOR
+*~
